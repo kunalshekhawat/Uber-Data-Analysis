@@ -42,10 +42,9 @@ To run this project on your local machine, follow these steps:
 
 1. Clone the repository:
 
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/kunalshekhawat/Uber-Data-Analysis.git]
+cd Uber-Data-Analysis
 
-(➡️ Replace your-username/your-repo-name with your actual GitHub repo URL!)
 
 2. Create and activate a virtual environment (recommended):
 
